@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://azzazzelor.github.io/static/css/main.21ddab2e.chunk.css",
-    "main.js": "https://azzazzelor.github.io/static/js/main.9bd548ff.chunk.js",
-    "main.js.map": "https://azzazzelor.github.io/static/js/main.9bd548ff.chunk.js.map",
-    "runtime-main.js": "https://azzazzelor.github.io/static/js/runtime-main.e418c3a6.js",
-    "runtime-main.js.map": "https://azzazzelor.github.io/static/js/runtime-main.e418c3a6.js.map",
+    "main.css": "https://azzazzelor.github.io/static/css/main.28bf7744.chunk.css",
+    "main.js": "https://azzazzelor.github.io/static/js/main.d15e9ee4.chunk.js",
+    "main.js.map": "https://azzazzelor.github.io/static/js/main.d15e9ee4.chunk.js.map",
+    "runtime-main.js": "https://azzazzelor.github.io/static/js/runtime-main.9647566c.js",
+    "runtime-main.js.map": "https://azzazzelor.github.io/static/js/runtime-main.9647566c.js.map",
     "static/css/2.8c516280.chunk.css": "https://azzazzelor.github.io/static/css/2.8c516280.chunk.css",
-    "static/js/2.614d1c32.chunk.js": "https://azzazzelor.github.io/static/js/2.614d1c32.chunk.js",
-    "static/js/2.614d1c32.chunk.js.map": "https://azzazzelor.github.io/static/js/2.614d1c32.chunk.js.map",
-    "static/js/3.8b0f15a6.chunk.js": "https://azzazzelor.github.io/static/js/3.8b0f15a6.chunk.js",
-    "static/js/3.8b0f15a6.chunk.js.map": "https://azzazzelor.github.io/static/js/3.8b0f15a6.chunk.js.map",
+    "static/js/2.f6867db8.chunk.js": "https://azzazzelor.github.io/static/js/2.f6867db8.chunk.js",
+    "static/js/2.f6867db8.chunk.js.map": "https://azzazzelor.github.io/static/js/2.f6867db8.chunk.js.map",
+    "static/js/3.8b5ed7a3.chunk.js": "https://azzazzelor.github.io/static/js/3.8b5ed7a3.chunk.js",
+    "static/js/3.8b5ed7a3.chunk.js.map": "https://azzazzelor.github.io/static/js/3.8b5ed7a3.chunk.js.map",
     "index.html": "https://azzazzelor.github.io/index.html",
     "static/css/2.8c516280.chunk.css.map": "https://azzazzelor.github.io/static/css/2.8c516280.chunk.css.map",
-    "static/css/main.21ddab2e.chunk.css.map": "https://azzazzelor.github.io/static/css/main.21ddab2e.chunk.css.map",
-    "static/js/2.614d1c32.chunk.js.LICENSE.txt": "https://azzazzelor.github.io/static/js/2.614d1c32.chunk.js.LICENSE.txt",
-    "static/media/header.module.scss": "https://azzazzelor.github.io/static/media/arrowDown.f21196ac.svg",
+    "static/css/main.28bf7744.chunk.css.map": "https://azzazzelor.github.io/static/css/main.28bf7744.chunk.css.map",
+    "static/js/2.f6867db8.chunk.js.LICENSE.txt": "https://azzazzelor.github.io/static/js/2.f6867db8.chunk.js.LICENSE.txt",
+    "static/media/notification.module.scss": "https://azzazzelor.github.io/static/media/arrowDown.f21196ac.svg",
     "static/media/styles.module.scss": "https://azzazzelor.github.io/static/media/time.965264c5.svg",
     "static/media/bg.97a9404b.png": "https://azzazzelor.github.io/static/media/bg.97a9404b.png",
     "static/media/bild.1a799a07.png": "https://azzazzelor.github.io/static/media/bild.1a799a07.png",
@@ -27,10 +27,10 @@
     "static/media/videoBackgr.3ca3ef32.png": "https://azzazzelor.github.io/static/media/videoBackgr.3ca3ef32.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e418c3a6.js",
+    "static/js/runtime-main.9647566c.js",
     "static/css/2.8c516280.chunk.css",
-    "static/js/2.614d1c32.chunk.js",
-    "static/css/main.21ddab2e.chunk.css",
-    "static/js/main.9bd548ff.chunk.js"
+    "static/js/2.f6867db8.chunk.js",
+    "static/css/main.28bf7744.chunk.css",
+    "static/js/main.d15e9ee4.chunk.js"
   ]
 }
